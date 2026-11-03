@@ -32,7 +32,7 @@ Since **v0.11.0**, Horus keeps itself up to date. On launch it reads the **`late
 
 ## Code signing policy
 
-**Status: application to the [SignPath Foundation](https://signpath.org) pending.** Releases up to and including v0.48.0 are not code-signed.
+**Status: application to the [SignPath Foundation](https://signpath.org) pending.** Releases are not code-signed yet.
 
 Once the project is accepted, the Windows binaries of every release, `horus-gui.exe` and the `setup.exe` installer, will be signed. Free code signing provided by [SignPath.io](https://signpath.io), certificate by [SignPath Foundation](https://signpath.org).
 
